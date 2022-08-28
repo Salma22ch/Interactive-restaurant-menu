@@ -1,3 +1,5 @@
+Realised by: Karim Frem, Putian Yuan, Salma Chana
+
 ## Implemented functionnalities :
 
 Fast and easy order
